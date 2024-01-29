@@ -10,7 +10,6 @@ var time_h = parseInt(time / 60);
 var time_m = time % 60;
 
 if (m + time_m < 60){
-    h += time_h;
     m += time_m;
 }
 else if (m + time_m >= 60){
