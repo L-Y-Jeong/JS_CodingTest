@@ -1,0 +1,17 @@
+
+const input = require('fs').readFileSync('input.txt').toString().split(' ');
+
+console.log(`${"long ".repeat(input/4)}int`); //repeat : 문자열 반복 함수
+
+15552 빠른 a+b
+const input = require('fs').readFileSync('input.txt').toString().split('\n');
+
+var t = parseInt(input[0]);
+var ans ='';
+
+for(let i = 1; i <= t; i++) {
+    let m = input[i].split(' ');
+    ans += parseInt(m[0]) + parseInt(m[1]) + "\n";
+}
+
+console.log(ans);
