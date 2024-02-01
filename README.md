@@ -6,6 +6,5 @@
 
 
 ## Solved.ac
- |
 |     <p align>[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=uj1321)](https://solved.ac/uj1321)</p>     |
  | --------- |
