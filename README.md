@@ -1,3 +1,11 @@
+## 백준 solved.ac
+
+| [이유정](https://github.com/L-Y-Jeong) |
+| --------- | 
+| ![이유정](https://github.com/L-Y-Jeong.png) |
+|  <p align="center">[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=uj1321)](https://solved.ac/uj1321)</p>  | 
+
+
 # JS_CodingTest
 
 - BaekJoon
